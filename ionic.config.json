@@ -1,0 +1,8 @@
+{
+  "name": "sidemenu",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular",
+  "pro_id": "ca2093ca"
+}
